@@ -52,6 +52,9 @@
     padding: 20px;
     background-color: gray;
 }
+.displayError{
+  border:2px solid red;
+}
 
 
 @media (max-width:769px) {
@@ -90,7 +93,7 @@
     .newline{
         display: block;
     }
-    /* .container{
-        width: ;
-    } */
+    .page-container{
+      width:200px;
+    }
 }
